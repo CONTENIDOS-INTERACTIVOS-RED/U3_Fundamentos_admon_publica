@@ -6,7 +6,8 @@
         .row.bg-gris.bg-full-width.py-4.mb-0
           div.px-5.pb-md-3.row
             .col-12.col-xl-8.d-flex.justify-content-center.align-items-center
-              span Este enfoque implica procesos de decisión más inclusivos y participativos, en los que no solo intervienen entidades gubernamentales, sino también organizaciones civiles, actores privados y organismos internacionales. Como resultado, se han desarrollado modelos que fomentan la descentralización, la articulación de redes interinstitucionales y el fortalecimiento del control ciudadano sobre la administración estatal (Aguilar, 2014).
+              span La gobernanza es un concepto central en la administración pública contemporánea, que involucra la interacción entre gobiernos, el sector privado y la sociedad civil para la toma de decisiones y la gestión de los asuntos públicos. A diferencia de la gobernabilidad, que se enfoca en la capacidad del gobierno para mantener el orden y ejecutar políticas, la gobernanza promueve la colaboración de múltiples actores para abordar problemas sociales y económicos de manera integral (Rovira, 2013).
+
             .col-4.d-none.d-xl-block
               img(src='@/assets/curso/unidad/img-3.png', alt='Texto que describa la imagen')
         .row.bg-gris-claro.bg-full-width.p-4.mb-4
@@ -150,6 +151,8 @@
               p.text-bold.mb-0.text-center.text-white Mayor transparencia	
             .bg-gris-claro.p-4.h-100
               p.mb-0.text-small.text-center Brinda acceso ciudadano a la información gubernamental.
+
+        p.mb-4 Este enfoque ha sido clave en la modernización de la administración pública, permitiendo mejorar la eficiencia gubernamental y la calidad de los servicios públicos (Rovira, 2013).
 
         #t_1_4.titulo-segundo(data-aos="flip-up")
           div.d-flex

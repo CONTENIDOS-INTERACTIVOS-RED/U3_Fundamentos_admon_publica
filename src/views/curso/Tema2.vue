@@ -214,8 +214,8 @@
           img.h-100(src='@/assets/curso/unidad/img-44.png', alt='Texto que describa la imagen')
         .col-12.col-xl-8.d-flex.ps-4.ps-xl-5.align-items-center.flex-column
           h2.mb-4.pb-2.me-auto Innovación pública y ética en la gestión pública
-          p.mb-5(data-aos="fade-up") Los invitamos a leer Innovación pública y ética en la gestión pública , un análisis sobre cómo la modernización del sector estatal impulsa la eficiencia, la transparencia y la confianza ciudadana. En este documento se exploran estrategias clave de innovación en la administración pública, desde la digitalización de trámites hasta la optimización de recursos, así como los desafíos que enfrenta su implementación.
-          a.d-flex.me-auto.w-fit.bg-white.box-shadow.cursor-pointer(data-aos="fade-up" :href="obtenerLink('/downloads/.pdf')" target="_blank")
+          p.mb-5(data-aos="fade-up") Los invitamos a leer Innovación pública y ética en la gestión pública, un análisis sobre cómo la modernización del sector estatal impulsa la eficiencia, la transparencia y la confianza ciudadana. En este documento se exploran estrategias clave de innovación en la administración pública, desde la digitalización de trámites hasta la optimización de recursos, así como los desafíos que enfrenta su implementación.
+          a.d-flex.me-auto.w-fit.bg-white.box-shadow.cursor-pointer(data-aos="fade-up" :href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")
             img.h-100(style="width: 48px" src='@/assets/componentes/pdf-icon-square.svg', alt='Texto que describa la imagen')
             p.text-small.fs-14px.my-auto.px-2 <strong>Anexo.</strong> Innovación pública y ética en la gestión pública
    
